@@ -41,4 +41,6 @@ App Theme Lab is a tool that helps you generate names, slogans, and color scheme
     ![app-download](https://github.com/AyhamJar/application-brand-crafter-with-AWS-PartyRock/assets/108863344/a39a4894-9258-4a2f-bb07-87a793bd8d3f)
 
 
-   
+## Try App Theme Lab
+
+https://partyrock.aws/u/Ayhamj/1I49ZyJzY/App-Theme-Lab
