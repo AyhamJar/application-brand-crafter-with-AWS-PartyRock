@@ -1,7 +1,7 @@
 # Theme Lab with AWS PartyRock
 
 ## Overview
-App Theme Lab is a tool that helps you generate names, slogans, and color schemes for your application based on your application description. It simplifies the process of creating a unique identity for your app.
+Theme Lab is an AWS PartyRock App I designed that helps you generate names, slogans, and color schemes for your application based on your application description. It simplifies the process of creating a unique identity for your application.
 
 ## Features
 - **Name Generation:** Get creative and unique names for your application.
@@ -41,6 +41,5 @@ App Theme Lab is a tool that helps you generate names, slogans, and color scheme
     ![app-download](https://github.com/AyhamJar/application-brand-crafter-with-AWS-PartyRock/assets/108863344/a39a4894-9258-4a2f-bb07-87a793bd8d3f)
 
 
-## Try App Theme Lab
-
-https://partyrock.aws/u/Ayhamj/1I49ZyJzY/App-Theme-Lab
+## Try Theme Lab
+   https://partyrock.aws/u/Ayhamj/1I49ZyJzY/Theme-Lab
